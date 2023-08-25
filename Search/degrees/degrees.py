@@ -59,7 +59,7 @@ def main():
     
     if len(sys.argv) > 2:
         sys.exit("Usage: python degrees.py [directory]")
-    directory = sys.argv[1] if len(sys.argv) == 2 else "C:\PersonalCode\Harvard AI\degrees\small"
+    directory = sys.argv[1] if len(sys.argv) == 2 else "large"
 
     # Load data from files into memory
     load_data(directory)
