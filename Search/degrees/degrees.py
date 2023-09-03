@@ -1,6 +1,6 @@
 # Rosie Khurmi
 # August 20, 2023
-# Find degrres of seperation between 2 actors from different csv files
+# Find degrees of seperation between 2 actors from different csv files
 
 import csv
 import sys
